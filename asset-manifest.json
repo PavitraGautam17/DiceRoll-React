@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DiceRoll-react/static/css/main.e92b65f8.css",
+    "main.js": "/DiceRoll-react/static/js/main.b07a3e9a.js",
+    "static/media/Dice6.png": "/DiceRoll-react/static/media/Dice6.9d05e41d396a34d64eff.png",
+    "static/media/Dice5.png": "/DiceRoll-react/static/media/Dice5.2c2f7a784510936d1f18.png",
+    "static/media/Dice4.png": "/DiceRoll-react/static/media/Dice4.53b4d2b8b1cf88387dd9.png",
+    "static/media/Dice3.png": "/DiceRoll-react/static/media/Dice3.cc8c025096972b3eb8d8.png",
+    "static/media/Dice2.png": "/DiceRoll-react/static/media/Dice2.a0b3a7c44276c60af8a2.png",
+    "index.html": "/DiceRoll-react/index.html",
+    "main.e92b65f8.css.map": "/DiceRoll-react/static/css/main.e92b65f8.css.map",
+    "main.b07a3e9a.js.map": "/DiceRoll-react/static/js/main.b07a3e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92b65f8.css",
+    "static/js/main.b07a3e9a.js"
+  ]
+}
